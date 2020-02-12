@@ -20,5 +20,9 @@ Including operations you can work with:
 - deale with missing values 
 - save all changes in a new csv file 
 
+
+Written in:
+ Python 
+ 
 Launch date:
   01.03.2020
