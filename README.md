@@ -27,7 +27,7 @@ Written in:
 Launch date:
   01.03.2020
 
-Images:
+
 
 
 
