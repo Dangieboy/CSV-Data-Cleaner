@@ -17,7 +17,7 @@ Including operations you can work with:
 - identify data types/columns
 - change data types/column names
 - manage index and column order
-- deale with missing values 
+- deal with missing values 
 - save all changes in a new csv file 
 
 
