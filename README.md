@@ -29,6 +29,5 @@ Launch date:
 
 Images:
 
-![dc](https://user-images.githubusercontent.com/58912495/74455825-35989e00-4e86-11ea-92ce-ead352254953.png)
 
-![tk 13 02 2020 17_01_57](https://user-images.githubusercontent.com/58912495/74455965-6e387780-4e86-11ea-8134-db2806a83932.png)
+
