@@ -30,7 +30,7 @@ Written in:
  Python 
  
 Launch date:
-  01.03.2020
+  26.02.2020
 
 
 
