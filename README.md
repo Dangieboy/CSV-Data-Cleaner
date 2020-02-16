@@ -20,6 +20,11 @@ Including operations you can work with:
 - deal with missing values 
 - save all changes in a new csv file 
 
+some leaks ;)
+![tk 15 02 2020 23_29_09](https://user-images.githubusercontent.com/58912495/74597063-c921c880-5058-11ea-90bd-f05f660a94eb.png)
+
+![tk 16 02 2020 01_04_56](https://user-images.githubusercontent.com/58912495/74597066-cb842280-5058-11ea-9dce-8ff307dd05d1.png)
+
 
 Written in:
  Python 
