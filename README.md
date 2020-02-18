@@ -9,7 +9,7 @@ Why you should work with the Data Cleaner:
 - you can save a lot of time because your commands work over GUIS and not code 
 - you have a large amount of operations you can execute  
 - the GUIS do not cause any confusion
-                                                        
+- you basically do not even need to know any coding                                                        
 
 Including operations you can work with:
 
@@ -18,6 +18,7 @@ Including operations you can work with:
 - change data types/column names
 - manage index and column order
 - deal with missing values 
+- quick clean 
 - save all changes in a new csv file 
 
 some leaks ;)
@@ -30,7 +31,7 @@ Written in:
  Python 
  
 Launch date:
-  26.02.2020
+  27.02.2020
 
 
 
