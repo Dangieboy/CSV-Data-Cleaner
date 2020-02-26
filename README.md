@@ -9,7 +9,9 @@ Why you should work with the Data Cleaner:
 - you can save a lot of time because your commands work over GUIS and not code 
 - you have a large amount of operations you can execute  
 - the GUIS do not cause any confusion
-- you basically do not even need to know any coding                                                        
+- you basically do not even need to know any coding   
+- you do not need any coing skills
+- it is a windows exe file
 
 Including operations you can work with:
 
