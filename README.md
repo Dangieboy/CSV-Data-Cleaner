@@ -30,8 +30,6 @@ some leaks ;)
 Written in:
  Python 
  
-Launch date:
-  27.02.2020
 
 
 
