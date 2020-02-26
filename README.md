@@ -24,8 +24,8 @@ Including operations you can work with:
 some leaks ;)
 ![tk 15 02 2020 23_29_09](https://user-images.githubusercontent.com/58912495/74597063-c921c880-5058-11ea-90bd-f05f660a94eb.png)
 
-![tk 16 02 2020 01_04_56](https://user-images.githubusercontent.com/58912495/74597066-cb842280-5058-11ea-9dce-8ff307dd05d1.png)
 
+![tk 26 02 2020 20_25_24](https://user-images.githubusercontent.com/58912495/75379812-47daf900-58d6-11ea-80c2-a9bd58925ae7.png)
 
 Written in:
  Python 
