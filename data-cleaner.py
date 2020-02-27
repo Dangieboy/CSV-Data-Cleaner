@@ -507,15 +507,7 @@ ee2.pack(pady=20)
 bb1.pack(pady=20)
 main.bind('<Return>', read)
 
-        #https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DA0101EN/module_5_auto.csv
-        #dfi=input("please enter you data path: ")
-        #df=pd.read_csv(dfi)
-        #dfi="https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DA0101EN/module_5_auto.csv"
-        #df=pd.read_csv(dfi)
-
-        #with pd.option_context('display.max_rows', None, 'display.max_columns', None):# more options can be specified also
-        #        print(df)
-
+      
 main.mainloop()
 
         
