@@ -498,7 +498,7 @@ ee2=tk.Entry(main,width=70,bg="white",font=( 'Times ',15,'bold' ))
 bb1=tk.Button(main,text='get started',command=read,height=1,width=20,bg="white",font=( 'Times ',20,'bold' ),relief='solid',borderwidth=1)
 
 bb2=tk.Label(main,text='name of the new file:',height=1,width=20,font=( 'Times ',23,'bold' ),bg='green')
-bb3=tk.Label(main,text='you can also chose a dot ending like: .csv',height=1,width=40,font=( 'Times ',12,'bold' ),bg='green')
+bb3=tk.Label(main,text='you can also choose a dot ending like: .csv',height=1,width=40,font=( 'Times ',12,'bold' ),bg='green')
 l1.pack(pady=30)
 ee1.pack(pady=20)
 bb2.pack(pady=20)
