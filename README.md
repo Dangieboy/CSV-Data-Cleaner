@@ -1,16 +1,16 @@
 # Data Cleaner (csv-version)
 
-The perfekt tool built for data scientists, machine learning engineers and everyone else who works with dataframes. 
+The perfect tool built for data scientists, machine learning engineers and everyone else who works with dataframes. 
 This Data Cleaner will help you to prepare your data in a simple and clearly laid out GUI. 
 It also helps you to gain more insight of the data and to clean it for sooner proceedings like building algorithms.
 
-Why you should work with the Data Cleaner:
+Why should you use the Data Cleaner ?:
 
-- you can save a lot of time because your commands work over GUIS and not code 
+- you can save  time because your commands work over GUIS and not code 
 - you have a large amount of operations you can execute  
-- the GUIS do not cause any confusion
-- you basically do not even need to know any coding   
-- you do not need any coing skills
+- an easy to use GUI
+- no programming knowledge is required
+
 
 
 Including operations you can work with:
@@ -23,7 +23,7 @@ Including operations you can work with:
 - quick clean 
 - save all changes in a new csv file 
 
-Download Python for usage!
+PRequires Python programming language!
 
 
 some leaks ;)
