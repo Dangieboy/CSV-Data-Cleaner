@@ -23,7 +23,7 @@ Including operations you can work with:
 - quick clean 
 - save all changes in a new csv file 
 
-PRequires Python programming language!
+Prequires Python programming language!
 
 
 some leaks ;)
